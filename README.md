@@ -1,5 +1,5 @@
 # speech-grammar-cheker
-A simple script to record narration/speech, convert it to text and analyze the text online via a website to display the grammatical errors made while speaking.
+A script to record narration/speech, convert it to text and analyze the text online via a website to display the grammatical errors made while speaking.
 
 Make sure you have all the packages/library modules required like pyaudio, wave, speech_recognition, selenium webdriver and the chromedriver.exe file.
 
